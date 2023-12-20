@@ -1,5 +1,5 @@
 [project]
-name = "stratus-sdk-python"
+name = "stratus-sdk"
 version = "0.0.1"
 authors = [
   { name="stratus-team", email="clunaemail@gmail.com" },
